@@ -81,6 +81,8 @@ Monster Slayer is a minigame that your objective is to kill the monster before h
 <img alt="Preview" src=".github/preview.gif">
 </p>
 
+Play it yourself, **click [here](https://k-schaeffer.github.io/monster-slayer-vue/) :)**
+
 ---
 
 <!--Preview session-->
