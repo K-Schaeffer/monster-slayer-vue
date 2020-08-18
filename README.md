@@ -85,7 +85,7 @@ Play it yourself, **click [here](https://k-schaeffer.github.io/monster-slayer-vu
 
 ---
 
-<!--Preview session-->
+<!--Knowledge session-->
 ## 📚 Knowledge acquired
 
 - [x] Vue.js fundamentals such as:
